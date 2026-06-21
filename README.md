@@ -23,9 +23,3 @@ Software developer based in Helsinki, building mobile-first products with a focu
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-## Featured Projects
-
-- [**SmoothBooking**](https://github.com/yourusername/smoothbooking) — Mobile-first booking and reservation product
-- [**Project Two**](https://github.com/yourusername/project-two) — Short one-line description
-- [**Project Three**](https://github.com/yourusername/project-three) — Short one-line description
