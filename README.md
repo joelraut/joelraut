@@ -1,16 +1,31 @@
-## Hi there 👋
+# Joel Rautio
 
-<!--
-**joelraut/joelraut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer based in Helsinki, building mobile-first products with a focus on clean UX, polished interactions, and practical product development.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building **SmoothBooking**, a booking and reservation app
+- Working mainly with React Native, Expo, TypeScript, and Firebase
+- Interested in UI/UX, smooth animations, and product-focused development
+- Background in Python, AI/ML workflows, and data-driven problem solving
+- Currently improving app architecture, performance, and startup execution
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+
+## Tech Stack
+
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1C1E24?style=flat-square&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+## Featured Projects
+
+- [**SmoothBooking**](https://github.com/yourusername/smoothbooking) — Mobile-first booking and reservation product
+- [**Project Two**](https://github.com/yourusername/project-two) — Short one-line description
+- [**Project Three**](https://github.com/yourusername/project-three) — Short one-line description
