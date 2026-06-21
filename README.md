@@ -20,9 +20,7 @@
 ## Selected work
 
 - **SmoothBooking** — Mobile-first booking and reservation product
-- **Project Name** — One-line description
-- **Project Name** — One-line description
-
+- 
 <details>
 <summary>More about me</summary>
 
