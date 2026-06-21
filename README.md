@@ -1,25 +1,36 @@
-# Joel Rautio
+# Hi, I'm Joel Rautio 👋
 
-Software developer based in Helsinki, building mobile-first products with a focus on clean UX, polished interactions, and practical product development.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=1F6FEB&center=false&vCenter=true&width=700&lines=Software+developer+from+Finland;Building+mobile-first+products;Currently+working+on+SmoothBooking)](https://git.io/typing-svg)
 
-## About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joel%20Rautio-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
+![Location](https://img.shields.io/badge/Helsinki-Finland-1f6feb?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Mobile%20Apps%20%26%20Product%20Building-2ea44f?style=flat-square)
 
-- Building **SmoothBooking**, a booking and reservation app
-- Working mainly with React Native, Expo, TypeScript, and Firebase
-- Interested in UI/UX, smooth animations, and product-focused development
-- Background in Python, AI/ML workflows, and data-driven problem solving
-- Currently improving app architecture, performance, and startup execution
+## About me
 
-## Connect
+- Building **SmoothBooking** and exploring startup-focused product development
+- Working mainly with React Native, Expo, TypeScript, Firebase, and Python for ML workflows
+- Interested in clean UX, polished interactions, and practical software products
+- Background in AI/ML workflows, data-driven problem solving, and mobile-first development
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+## Tech I use
 
-## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,firebase,python,mysql,git,github,vscode&perline=9)](https://skillicons.dev)
 
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-1C1E24?style=flat-square&logo=expo&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+## Selected work
+
+- **SmoothBooking** — Mobile-first booking and reservation product
+- **Project Name** — One-line description
+- **Project Name** — One-line description
+
+<details>
+<summary>More about me</summary>
+
+<br>
+
+- Based in Helsinki, Finland
+- Recent Computer Science graduate from Metropolia University of Applied Sciences
+- Interested in mobile product development, UI/UX, and startup building
+- I enjoy turning ideas into prototypes and improving them through iteration
+
+</details>
