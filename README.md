@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=1F6FEB&center=false&vCenter=true&width=700&lines=Software+developer+from+Finland;Building+mobile-first+products;Currently+working+on+SmoothBooking)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joel%20Rautio-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joel%20Rautio-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/joel-rautio)
 ![Location](https://img.shields.io/badge/Helsinki-Finland-1f6feb?style=flat-square)
 ![Focus](https://img.shields.io/badge/Focus-Mobile%20Apps%20%26%20Product%20Building-2ea44f?style=flat-square)
 
@@ -20,7 +20,6 @@
 ## Selected work
 
 - **SmoothBooking** — Mobile-first booking and reservation product
-- 
 <details>
 <summary>More about me</summary>
 
